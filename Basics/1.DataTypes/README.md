@@ -6,7 +6,7 @@ The code starts by including the necessary header files, iostream and conio.h, f
 
 In the main() function:
 
-An integer variable a is declared and initialized with the value 12.
+* An integer variable a is declared and initialized with the value 12.
 The size of int is displayed using the sizeof operator and printed to the console.
 A float variable b is declared.
 The size of float is displayed and printed.
