@@ -7,7 +7,7 @@ int main() {
 	int n;
 	cout << "Enter the size of array : ";
 	cin >> n;
-	int* arr = new int[n];  // Dynamically allocate memory for the array // from chatgpt
+	int* arr = new int[n];  // Dynamically allocate memory for the array 
 	//taking input from user
 	for (int i = 0; i < n; i++) {
 		cout << "Enter element " << i+1 << " : ";
